@@ -1,5 +1,7 @@
 *.csv
 .ipynb_checkpoints/
+*.tar.gz
 
 training_mnist_gpu/
-
+training_text_model/
+aclImdb/
